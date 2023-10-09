@@ -1,0 +1,21 @@
+name: com.chenpipi.code-executor
+displayName: Code Executor
+description: >-
+  A front-end interface where you can create, edit, save and dynamically execute
+  code snippets.
+repoUrl: 'https://github.com/ichenpipi/unity-code-executor'
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+topics:
+  - editor-enhancement
+hunter: ichenpipi
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+image: ''
+readme: 'main:README.md'
+readme_zhCN: 'main:README_ZH.md'
+displayName_zhCN: ''
+description_zhCN: 本插件提供了一个可以新建、编辑、保存、选择代码执行模式并执行代码段的前端界面。
+createdAt: 1696839276466
